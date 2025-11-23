@@ -5,10 +5,10 @@ Built using HTML, CSS, and JavaScript.
 
 🖥️ Features
 
-Modern & clean layout
-Fast and user-friendly interface
-App categories section
-Smooth navigation
+Modern & clean layout 
+Fast and user-friendly interface 
+App categories section 
+Smooth navigation 
 
 👨‍💻 Developer: Usman Sharif
 ⭐ Star this repo if you like it!
