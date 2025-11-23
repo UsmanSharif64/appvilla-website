@@ -4,7 +4,7 @@ Built using**HTML**, **CSS**, and **JavaScript**.
 
 ### 🖥️ Features
 - Modern & clean layout 
-- Clean layout  
+- App categories section 
 - Simple and fast
   
 👨‍💻 **Developer:** Usman Sharif  
